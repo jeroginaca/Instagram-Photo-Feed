@@ -1,0 +1,59 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.header{
+    
+    padding: 2px;
+    
+}
+
+.title{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+margin-left: 10px;
+}
+
+
+.section{
+    padding: 20px;
+    background: rgb(237, 236, 236) ;
+}
+
+.post {
+    background: white;
+    width: 600px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post-title{
+   display: flex;
+}
+
+.post-title-title{
+   float: left;
+padding-left: 20px;
+}
+
+.post-title-number{
+   float: right;
+    margin-left: auto;
+    padding: 20px;
+    color: rgb(108, 107, 107);
+}
+
+.post-img{
+    size: auto;
+
+}
+
+p{
+    padding: 10px;
+}
